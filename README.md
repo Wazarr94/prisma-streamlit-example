@@ -9,3 +9,5 @@ Before running and hosting the app, you will need to sync your database with Pri
 ```bash
 prisma db push
 ```
+
+Demo link: [Streamlit app](https://prisma-app-example.streamlit.app/)
